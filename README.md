@@ -1,2 +1,1 @@
-# AI-arch-hypr
-AI arch hypr
+In this repositore AI create a conf for hyprland
